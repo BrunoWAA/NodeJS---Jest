@@ -2,10 +2,10 @@
   "name": "nodejs",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "exercicio_1.js",
   "scripts": {
     "test": "jest",
-    "start": "index.js"
+    "start": "exercicio_1.js"
   },
   "author": "",
   "license": "ISC",
